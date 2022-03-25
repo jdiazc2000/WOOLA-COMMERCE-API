@@ -99,8 +99,8 @@
             "precio": "30.20",
             "stock": 10,
             "Oferta": "NO"
-        }
-        , {
+        }, 
+        {
             "id": "8",
             "tipo": "Casaca",
             "marca": "Gucci",
@@ -113,8 +113,8 @@
             "precio": "30.20",
             "stock": 10,
             "Oferta": "NO"
-        }
-    ] , {
+        }, 
+        {
             "id": "9",
             "tipo": "Casaca",
             "marca": "Gucci",
@@ -127,8 +127,8 @@
             "precio": "30.20",
             "stock": 10,
             "Oferta": "NO"
-        }
-    ] , {
+        }, 
+        {
             "id": "10",
             "tipo": "Casaca",
             "marca": "Gucci",
@@ -141,8 +141,8 @@
             "precio": "30.20",
             "stock": 10,
             "Oferta": "NO"
-        }
-    ] , {
+        }, 
+        {
             "id": "11",
             "tipo": "Casaca",
             "marca": "Gucci",
@@ -155,8 +155,8 @@
             "precio": "30.20",
             "stock": 10,
             "Oferta": "NO"
-        }
-    ] , {
+        }, 
+        {
             "id": "12",
             "tipo": "Casaca",
             "marca": "Gucci",
