@@ -114,37 +114,61 @@
             "stock": 10,
             "Oferta": "NO"
         }
-    ],
-    "aboutus-items": [
-        {
-            "id": "1",
-            "image": "https://woola-commerce-template.netlify.app/Imgs+Svgs/Img-Bolsa.png",
-            "descripción": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum id, eius quibusdam voluptatum"
-        },
-        {
-            "id": "2",
-            "image": "https://woola-commerce-template.netlify.app/Imgs+Svgs/Img-Bolsa.png",
-            "descripción": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum id, eius quibusdam voluptatum"
-        },
-        {
-            "id": "3",
-            "image": "https://woola-commerce-template.netlify.app/Imgs+Svgs/Img-Bolsa.png",
-            "descripción": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum id, eius quibusdam voluptatum"
-        },
-        {
-            "id": "4",
-            "image": "https://woola-commerce-template.netlify.app/Imgs+Svgs/Img-Bolsa.png",
-            "descripción": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum id, eius quibusdam voluptatum"
-        },
-        {
-            "id": "5",
-            "image": "https://woola-commerce-template.netlify.app/Imgs+Svgs/Img-Bolsa.png",
-            "descripción": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum id, eius quibusdam voluptatum"
-        },
-        {
-            "id": "6",
-            "image": "https://woola-commerce-template.netlify.app/Imgs+Svgs/Img-Bolsa.png",
-            "descripción": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum id, eius quibusdam voluptatum"
+    ] , {
+            "id": "9",
+            "tipo": "Casaca",
+            "marca": "Gucci",
+            "imagen": "https://i.postimg.cc/nhXFyNBy/prenda.png",
+            "color1": "Rojo",
+            "color2": "Amarillo",
+            "color3": "Azul",
+            "genero": "Femenino",
+            "descripción": "FUNCIONO",
+            "precio": "30.20",
+            "stock": 10,
+            "Oferta": "NO"
+        }
+    ] , {
+            "id": "10",
+            "tipo": "Casaca",
+            "marca": "Gucci",
+            "imagen": "https://i.postimg.cc/nhXFyNBy/prenda.png",
+            "color1": "Rojo",
+            "color2": "Amarillo",
+            "color3": "Azul",
+            "genero": "Femenino",
+            "descripción": "FUNCIONO",
+            "precio": "30.20",
+            "stock": 10,
+            "Oferta": "NO"
+        }
+    ] , {
+            "id": "11",
+            "tipo": "Casaca",
+            "marca": "Gucci",
+            "imagen": "https://i.postimg.cc/nhXFyNBy/prenda.png",
+            "color1": "Rojo",
+            "color2": "Amarillo",
+            "color3": "Azul",
+            "genero": "Femenino",
+            "descripción": "FUNCIONO",
+            "precio": "30.20",
+            "stock": 10,
+            "Oferta": "NO"
+        }
+    ] , {
+            "id": "12",
+            "tipo": "Casaca",
+            "marca": "Gucci",
+            "imagen": "https://i.postimg.cc/nhXFyNBy/prenda.png",
+            "color1": "Rojo",
+            "color2": "Amarillo",
+            "color3": "Azul",
+            "genero": "Femenino",
+            "descripción": "FUNCIONO",
+            "precio": "30.20",
+            "stock": 10,
+            "Oferta": "NO"
         }
     ]
 }
