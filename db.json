@@ -10,8 +10,8 @@
             "color3": "🟩",
             "genero": "Masculino",
             "descripción": "FUNCIONO",
-            "precio": "22.50",
-            "preciooferta": "15.20",
+            "precio": 22.50,
+            "preciooferta": 15.20,
             "stock": 30,
             "Oferta": "SI"
         },
@@ -23,8 +23,8 @@
             "color1": "Rojo",
             "color2": "Amarillo",
             "color3": "Azul",
-            "preciooferta": "10.30",
-            "precio": "20.30",
+            "preciooferta": 10.30,
+            "precio": 20.30,
             "genero": "Femenino",
             "descripción": "FUNCIONO",
             "stock": 10,
@@ -38,8 +38,8 @@
             "color1": "Vaquero",
             "genero": "Femenino",
             "descripción": "Lorem impun 123",
-            "precio": "50.10",
-            "preciooferta": "15.20",
+            "precio": 50.10,
+            "preciooferta": 15.20,
             "stock": 0,
             "Oferta": "SI"
         },
@@ -53,8 +53,8 @@
             "color3": "Azul",
             "genero": "Femenino",
             "descripción": "FUNCIONO",
-            "precio": "80.20",
-            "preciooferta": "10.20",
+            "precio": 80.20,
+            "preciooferta": 10.20,
             "stock": 10,
             "Oferta": "SI"
         },
@@ -68,7 +68,8 @@
             "color3": "Azul",
             "genero": "Femenino",
             "descripción": "FUNCIONO",
-            "precio": "20.20",
+            "precio": 20.20,
+            "preciooferta": 0,
             "stock": 10,
             "Oferta": "NO"
         },
@@ -82,7 +83,8 @@
             "color3": "Azul",
             "genero": "Femenino",
             "descripción": "FUNCIONO",
-            "precio": "30.20",
+            "precio": 30.20,
+            "preciooferta": 0,
             "stock": 10,
             "Oferta": "NO"
         },
@@ -96,7 +98,8 @@
             "color3": "Azul",
             "genero": "Femenino",
             "descripción": "FUNCIONO",
-            "precio": "30.20",
+            "precio": 30.20,
+            "preciooferta": 0,
             "stock": 10,
             "Oferta": "NO"
         }, 
@@ -110,7 +113,8 @@
             "color3": "Azul",
             "genero": "Femenino",
             "descripción": "FUNCIONO",
-            "precio": "30.20",
+            "precio": 30.20,
+            "preciooferta": 0,
             "stock": 10,
             "Oferta": "NO"
         }, 
@@ -124,7 +128,8 @@
             "color3": "Azul",
             "genero": "Femenino",
             "descripción": "FUNCIONO",
-            "precio": "30.20",
+            "precio": 30.20,
+            "preciooferta": 0,
             "stock": 10,
             "Oferta": "NO"
         }, 
@@ -138,7 +143,8 @@
             "color3": "Azul",
             "genero": "Femenino",
             "descripción": "FUNCIONO",
-            "precio": "30.20",
+            "precio": 30.20,
+            "preciooferta": 0,
             "stock": 10,
             "Oferta": "NO"
         }, 
@@ -152,7 +158,8 @@
             "color3": "Azul",
             "genero": "Femenino",
             "descripción": "FUNCIONO",
-            "precio": "30.20",
+            "precio": 30.20,
+            "preciooferta": 0,
             "stock": 10,
             "Oferta": "NO"
         }, 
@@ -166,7 +173,8 @@
             "color3": "Azul",
             "genero": "Femenino",
             "descripción": "FUNCIONO",
-            "precio": "30.20",
+            "precio": 30.20,
+            "preciooferta": 0,
             "stock": 10,
             "Oferta": "NO"
         }
