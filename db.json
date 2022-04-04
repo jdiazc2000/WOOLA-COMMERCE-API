@@ -8,13 +8,11 @@
                "img1": "https://www.proveedores.com/site/company/b7/86660/images/139117/proveedores-ropa-de-bebe_crs2.jpg",
                "img2": "https://www.proveedores.com/site/company/b7/86660/images/139117/proveedores-ropa-de-bebe_crs2.jpg",
                "img3": "https://www.proveedores.com/site/company/b7/86660/images/139117/proveedores-ropa-de-bebe_crs2.jpg",
-              }
             },    
             "colores": {
                "color1": "Rojo",
                "color2": "Azul",
                "color3": "Anaranjado",
-              }
             },  
             "genero": "Masculino",
             "talla": "XL",
@@ -23,7 +21,6 @@
             "preciooferta": 15.20,
             "stock": 30,
             "Oferta": "SI"
-        }
        }
     ]
 }
