@@ -21,6 +21,160 @@
 		"preciooferta": 15.20,
 		"stock": 30,
 		"Oferta": "SI"
+	}, 
+	{
+		"id": "2",
+		"tipo": "Casaca",
+		"marca": "Chanel",
+		"imagen": {
+			"img1": "https://www.proveedores.com/site/company/b7/86660/images/139117/proveedores-ropa-de-bebe_crs2.jpg",
+			"img2": "https://i.postimg.cc/nhXFyNBy/prenda.png",
+			"img3": "https://http2.mlstatic.com/D_NQ_NP_756607-MPE48235353448_112021-W.jpg"
+		},
+		"colores": {
+			"color1": "Rojo",
+			"color2": "Azul",
+			"color3": "Amarillo"
+		},
+		"genero": "Masculino",
+		"talla": "XL",
+		"descripción": "Tela Crema",
+		"precio": 22.50,
+		"preciooferta": 15.20,
+		"stock": 30,
+		"Oferta": "SI"
+	},
+	{
+		"id": "3",
+		"tipo": "Casaca",
+		"marca": "Chanel",
+		"imagen": {
+			"img1": "https://www.proveedores.com/site/company/b7/86660/images/139117/proveedores-ropa-de-bebe_crs2.jpg",
+			"img2": "https://i.postimg.cc/nhXFyNBy/prenda.png",
+			"img3": "https://http2.mlstatic.com/D_NQ_NP_756607-MPE48235353448_112021-W.jpg"
+		},
+		"colores": {
+			"color1": "Rojo",
+			"color2": "Azul",
+			"color3": "Amarillo"
+		},
+		"genero": "Masculino",
+		"talla": "XL",
+		"descripción": "Tela Crema",
+		"precio": 22.50,
+		"preciooferta": 15.20,
+		"stock": 30,
+		"Oferta": "SI"
+	},
+	{
+		"id": "4",
+		"tipo": "Casaca",
+		"marca": "Chanel",
+		"imagen": {
+			"img1": "https://www.proveedores.com/site/company/b7/86660/images/139117/proveedores-ropa-de-bebe_crs2.jpg",
+			"img2": "https://i.postimg.cc/nhXFyNBy/prenda.png",
+			"img3": "https://http2.mlstatic.com/D_NQ_NP_756607-MPE48235353448_112021-W.jpg"
+		},
+		"colores": {
+			"color1": "Rojo",
+			"color2": "Azul",
+			"color3": "Amarillo"
+		},
+		"genero": "Masculino",
+		"talla": "XL",
+		"descripción": "Tela Crema",
+		"precio": 22.50,
+		"preciooferta": 15.20,
+		"stock": 30,
+		"Oferta": "SI"
+	},
+	{
+		"id": "5",
+		"tipo": "Casaca",
+		"marca": "Chanel",
+		"imagen": {
+			"img1": "https://www.proveedores.com/site/company/b7/86660/images/139117/proveedores-ropa-de-bebe_crs2.jpg",
+			"img2": "https://i.postimg.cc/nhXFyNBy/prenda.png",
+			"img3": "https://http2.mlstatic.com/D_NQ_NP_756607-MPE48235353448_112021-W.jpg"
+		},
+		"colores": {
+			"color1": "Rojo",
+			"color2": "Azul",
+			"color3": "Amarillo"
+		},
+		"genero": "Masculino",
+		"talla": "XL",
+		"descripción": "Tela Crema",
+		"precio": 22.50,
+		"preciooferta": 15.20,
+		"stock": 30,
+		"Oferta": "SI"
+	},
+	{
+		"id": "6",
+		"tipo": "Casaca",
+		"marca": "Chanel",
+		"imagen": {
+			"img1": "https://www.proveedores.com/site/company/b7/86660/images/139117/proveedores-ropa-de-bebe_crs2.jpg",
+			"img2": "https://i.postimg.cc/nhXFyNBy/prenda.png",
+			"img3": "https://http2.mlstatic.com/D_NQ_NP_756607-MPE48235353448_112021-W.jpg"
+		},
+		"colores": {
+			"color1": "Rojo",
+			"color2": "Azul",
+			"color3": "Amarillo"
+		},
+		"genero": "Masculino",
+		"talla": "XL",
+		"descripción": "Tela Crema",
+		"precio": 22.50,
+		"preciooferta": 15.20,
+		"stock": 30,
+		"Oferta": "SI"
+	},
+	{
+		"id": "7",
+		"tipo": "Casaca",
+		"marca": "Chanel",
+		"imagen": {
+			"img1": "https://www.proveedores.com/site/company/b7/86660/images/139117/proveedores-ropa-de-bebe_crs2.jpg",
+			"img2": "https://i.postimg.cc/nhXFyNBy/prenda.png",
+			"img3": "https://http2.mlstatic.com/D_NQ_NP_756607-MPE48235353448_112021-W.jpg"
+		},
+		"colores": {
+			"color1": "Rojo",
+			"color2": "Azul",
+			"color3": "Amarillo"
+		},
+		"genero": "Masculino",
+		"talla": "XL",
+		"descripción": "Tela Crema",
+		"precio": 22.50,
+		"preciooferta": 15.20,
+		"stock": 30,
+		"Oferta": "SI"
+	},
+	{
+		"id": "8",
+		"tipo": "Casaca",
+		"marca": "Chanel",
+		"imagen": {
+			"img1": "https://www.proveedores.com/site/company/b7/86660/images/139117/proveedores-ropa-de-bebe_crs2.jpg",
+			"img2": "https://i.postimg.cc/nhXFyNBy/prenda.png",
+			"img3": "https://http2.mlstatic.com/D_NQ_NP_756607-MPE48235353448_112021-W.jpg"
+		},
+		"colores": {
+			"color1": "Rojo",
+			"color2": "Azul",
+			"color3": "Amarillo"
+		},
+		"genero": "Masculino",
+		"talla": "XL",
+		"descripción": "Tela Crema",
+		"precio": 22.50,
+		"preciooferta": 15.20,
+		"stock": 30,
+		"Oferta": "SI"
 	}
     ]
 }
