@@ -36,7 +36,7 @@
 			"color2": "Azul",
 			"color3": "Amarillo"
 		},
-		"genero": "Masculino",
+		"genero": "Femenino",
 		"talla": "XL",
 		"descripción": "Tela Roja",
 		"precio": 22.50,
@@ -64,7 +64,7 @@
 		"precio": 22.50,
 		"preciooferta": 15.20,
 		"stock": 30,
-		"Oferta": "SI"
+		"Oferta": "NO"
 	},
 	{
 		"id": "4",
@@ -83,10 +83,10 @@
 		"genero": "Masculino",
 		"talla": "XL",
 		"descripción": "Tela Amarilla",
-		"precio": 22.50,
-		"preciooferta": 15.20,
+		"precio": 50.50,
+		"preciooferta": "",
 		"stock": 30,
-		"Oferta": "SI"
+		"Oferta": "NO"
 	},
 	{
 		"id": "5",
