@@ -46,24 +46,24 @@
 	},
 	{
 		"id": "3",
-		"tipo": "Casaca",
-		"marca": "Chanel",
+		"tipo": "Jean",
+		"marca": "Prada",
 		"imagen": {
-			"img1": "https://www.proveedores.com/site/company/b7/86660/images/139117/proveedores-ropa-de-bebe_crs2.jpg",
+			"img1": "https://http2.mlstatic.com/D_NQ_NP_756607-MPE48235353448_112021-W.jpg",
 			"img2": "https://i.postimg.cc/nhXFyNBy/prenda.png",
-			"img3": "https://http2.mlstatic.com/D_NQ_NP_756607-MPE48235353448_112021-W.jpg"
+			"img3": "https://www.proveedores.com/site/company/b7/86660/images/139117/proveedores-ropa-de-bebe_crs2.jpg"
 		},
 		"colores": {
 			"color1": "Rojo",
 			"color2": "Azul",
 			"color3": "Amarillo"
 		},
-		"genero": "Masculino",
+		"genero": "Femenino",
 		"talla": "XL",
 		"descripción": "Tela Azul",
-		"precio": 22.50,
-		"preciooferta": 15.20,
-		"stock": 30,
+		"precio": 10.90,
+		"preciooferta": 5.20,
+		"stock": 15,
 		"Oferta": "NO"
 	},
 	{
