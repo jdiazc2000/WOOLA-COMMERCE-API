@@ -64,7 +64,7 @@
 		"precio": 10.90,
 		"preciooferta": 5.20,
 		"stock": 15,
-		"Oferta": "NO"
+		"Oferta": "SI"
 	},
 	{
 		"id": "4",
@@ -88,13 +88,13 @@
 		"stock": 30,
 		"Oferta": "NO"
 	},
-	{
+	{a
 		"id": "5",
-		"tipo": "Casaca",
-		"marca": "Chanel",
+		"tipo": "Abrigo",
+		"marca": "Gucci",
 		"imagen": {
-			"img1": "https://www.proveedores.com/site/company/b7/86660/images/139117/proveedores-ropa-de-bebe_crs2.jpg",
-			"img2": "https://i.postimg.cc/nhXFyNBy/prenda.png",
+			"img1": "https://i.postimg.cc/nhXFyNBy/prenda.png" ,
+			"img2": "https://www.proveedores.com/site/company/b7/86660/images/139117/proveedores-ropa-de-bebe_crs2.jpg",
 			"img3": "https://http2.mlstatic.com/D_NQ_NP_756607-MPE48235353448_112021-W.jpg"
 		},
 		"colores": {
@@ -102,13 +102,13 @@
 			"color2": "Azul",
 			"color3": "Amarillo"
 		},
-		"genero": "Masculino",
+		"genero": "Femenino",
 		"talla": "XL",
 		"descripción": "Tela Verde",
 		"precio": 22.50,
-		"preciooferta": 15.20,
-		"stock": 30,
-		"Oferta": "SI"
+		"preciooferta": "",
+		"stock": 5,
+		"Oferta": "NO"
 	},
 	{
 		"id": "6",
